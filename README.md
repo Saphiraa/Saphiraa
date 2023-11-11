@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hallo, this is Saaraa Kazi 👋
+## I'm a Computer Engineer, a FullStack Developer and a UI/UX Designing enthusiast
 
-<!--
-**Saphiraa/Saphiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interests -
 
-Here are some ideas to get you started:
+- 💼 Business
+- 🥷 Anime
+- 📖 Reading Fiction
+- 📝 Creative Journaling
+- 🎴 Honing my designing/editing skills
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Stuff:
+- 🖥 Courses: Responsive Web Design and Azure
+- 💱 Experimenting with UI/UX Designing (logos, wireframes, colour theory)
+- 📑 Cracking CEED 2024
+***
+
+### Where to find me:
+- Linkedin : https://www.linkedin.com/in/saaraa-kazi-54752118b/
+- Instagram : ![@escapslockism](/assets/images/https://github.com/Saphiraa/Saphiraa/assets/40579172/74cdef69-53c8-4e0b-95f7-768ea6640977)
+
