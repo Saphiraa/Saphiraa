@@ -20,5 +20,5 @@ Interests -
 - Linkedin : https://www.linkedin.com/in/saaraa-kazi-54752118b/
 - Instagram : [@escapslockism](https://instagram.com/escapslockism?igshid=MWkwNnNsN29nODlheQ%3D%3D&utm_source=qr)
 
-  <img src="/assets/images/escapslockism_qr.png" href="https://instagram.com/escapslockism?igshid=MWkwNnNsN29nODlheQ%3D%3D&utm_source=qr" alt="drawing" width="150"/>
+  <a href="https://instagram.com/escapslockism?igshid=MWkwNnNsN29nODlheQ%3D%3D&utm_source=qr"><img src="/assets/images/escapslockism_qr.png" alt="drawing" width="150"/></a>
 
