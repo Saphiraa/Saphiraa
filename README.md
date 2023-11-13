@@ -17,8 +17,9 @@ Interests -
 ***
 
 ### Where to find me:
-- Linkedin : https://www.linkedin.com/in/saaraa-kazi-54752118b/
-- Instagram : [@escapslockism](https://instagram.com/escapslockism?igshid=MWkwNnNsN29nODlheQ%3D%3D&utm_source=qr)
 
-  <a href="https://instagram.com/escapslockism?igshid=MWkwNnNsN29nODlheQ%3D%3D&utm_source=qr"><img src="/assets/images/escapslockism_qr.png" alt="drawing" width="150"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saaraa-kazi-54752118b/"><img src="/assets/images/linkedin_icon.png" alt="linkedin logo" width="30"/></a> &nbsp;
+<a href="https://instagram.com/escapslockism?igshid=MWkwNnNsN29nODlheQ%3D%3D&utm_source=qr"><img src="/assets/images/instagram_icon.png" alt="instagram logo" width="30"/></a>
+
+
 
