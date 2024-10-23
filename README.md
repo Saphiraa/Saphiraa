@@ -13,7 +13,7 @@ Interests -
 ### Current Stuff:
 - 🖥 Courses: Responsive Web Design and Azure
 - 💱 Experimenting with UI/UX Designing (logos, wireframes, colour theory)
-- 📑 Cracking CEED 2024
+- 📑 Cracking CEED 2024 (cracked, got an interview for IIT Hyderabad - didn't clear but still trying)
 ***
 
 ### Where to find me:
